@@ -16,7 +16,7 @@ header {
 }
 #container  {
     width: 1160px;
-    height: 5500px;
+    height: 6750px;
     margin: auto;
     
     background: #ffffff;
@@ -38,7 +38,7 @@ header {
 }
 .p2-intro-img {
     width: 896px;
-    height: 239px;
+    height: 215px;
     margin: 134px 9px 10px 120px;
 }
 .intro-tit {
@@ -239,7 +239,7 @@ header {
 .feature-list-b {
     
     position: relative;
-    bottom: 228px;
+    bottom: 213px;
     right: 60px;
     float: right;
 }
@@ -306,7 +306,8 @@ header {
 .copy-rights {
     
     text-align: center;
-    margin: 10px;
+    margin: 33px;
+    padding-left: 400px;	
 }
 .myButton {
     float: right;
