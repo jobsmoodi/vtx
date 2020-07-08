@@ -222,6 +222,7 @@ h3 {
 
 }
 .myButton {
+    float: right;
     position: relative;
     background-color: #ffffff;
     border: 2px solid #ffffff;
@@ -233,7 +234,9 @@ h3 {
     font-weight: bold;
     padding: 11px;
     text-decoration: none;
-    bottom: 78px;
+    bottom: 70px;
+    right: 65px;
+	
 }
 myButton:hover {
 	background-color:#5cbf2a;
